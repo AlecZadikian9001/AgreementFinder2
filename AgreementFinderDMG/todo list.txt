@@ -1,8 +1,2 @@
 TODO list:
-- Fix pipe error.
-- Use auto-layout.
-- Fix “too many users” error. ~ May have been fixed, not tested.
-- Make matched passive activities appear under “matches and invitations” on client. √ Done?
-- Use appsecret_proof!
-- Fix server not unconfirming people when they delete activities.
-- Fix badge reset to 0 APN not working.
+- Chain the delegate methods in ListView.h in client.
